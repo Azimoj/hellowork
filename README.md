@@ -1,3 +1,3 @@
 # hellowork
 
-starting to add and edite in ithu repository.
+starting to add and edite in github repository.
